@@ -180,6 +180,7 @@ h4{
      display: flex;
      justify-content: center;
      align-items:center;
+     margin:auto;
    }
 
    .social-links img{
@@ -223,7 +224,7 @@ h4{
         left: 60px;
         overflow: hidden;
         transition: all 0.8s ease-in-out;
-        
+
     }
 
     .menu-icon{
