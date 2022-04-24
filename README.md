@@ -39,7 +39,7 @@ Este projeto trata-se de uma landing page da playstation 5 com bastantes cores e
 </table>
 
 <div>
- <a href="https://www.linkedin.com/in/gabriel-louren%C3%A7o-749b78198" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/gabriel-ibiapino-louren%C3%A7o-da-silva-749b78198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:lourencogabriel77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
